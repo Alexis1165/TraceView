@@ -1,0 +1,1384 @@
+{
+	"trace":[
+		{
+			"tick": 1,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -16.017088,
+				"b_line35" : 29.268356,
+				"c_line36" : -28.262486,
+				"integral_line24" : -11.388150,
+				"error_prior_line25" : -14.038150,
+				"integral_line24" : -11.870835,
+				"error_prior_line25" : -9.255836,
+				"integral_line24" : 2.241898,
+				"error_prior_line25" : 12.245398
+			}
+		},
+		{
+			"tick": 2,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 130.395569,
+				"b_line35" : 54.904999,
+				"c_line36" : 95.525234,
+				"integral_line24" : 33.897294,
+				"error_prior_line25" : 45.285444,
+				"integral_line24" : 54.386042,
+				"error_prior_line25" : 66.256878,
+				"integral_line24" : 37.112233,
+				"error_prior_line25" : 34.870335
+			}
+		},
+		{
+			"tick": 3,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -481.623319,
+				"b_line35" : -602.308390,
+				"c_line36" : -175.158611,
+				"integral_line24" : -41.593277,
+				"error_prior_line25" : -75.490570,
+				"integral_line24" : -175.677567,
+				"error_prior_line25" : -230.063609,
+				"integral_line24" : -269.352475,
+				"error_prior_line25" : -306.464708
+			}
+		},
+		{
+			"tick": 4,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 980.326611,
+				"b_line35" : 2385.196198,
+				"c_line36" : -170.448375,
+				"integral_line24" : -162.278347,
+				"error_prior_line25" : -120.685071,
+				"integral_line24" : 256.182447,
+				"error_prior_line25" : 431.860014,
+				"integral_line24" : 881.422511,
+				"error_prior_line25" : 1150.774986
+			}
+		},
+		{
+			"tick": 5,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 316.289505,
+				"b_line35" : -5374.805244,
+				"c_line36" : 2725.025954,
+				"integral_line24" : 1242.591239,
+				"error_prior_line25" : 1404.869587,
+				"integral_line24" : 596.012204,
+				"error_prior_line25" : 339.829756,
+				"integral_line24" : -1527.313938,
+				"error_prior_line25" : -2408.736449
+			}
+		},
+		{
+			"tick": 6,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -12159.029913,
+				"b_line35" : 965.388994,
+				"c_line36" : -11720.913140,
+				"integral_line24" : -4448.503510,
+				"error_prior_line25" : -5691.094749,
+				"integral_line24" : -5750.095693,
+				"error_prior_line25" : -6346.107897,
+				"integral_line24" : -1965.430710,
+				"error_prior_line25" : -438.116772
+			}
+		},
+		{
+			"tick": 7,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 57023.200370,
+				"b_line35" : 53184.655640,
+				"c_line36" : 28848.089320,
+				"integral_line24" : 8675.915398,
+				"error_prior_line25" : 13124.418907,
+				"integral_line24" : 22132.604633,
+				"error_prior_line25" : 27882.700326,
+				"integral_line24" : 26209.680340,
+				"error_prior_line25" : 28175.111050
+			}
+		},
+		{
+			"tick": 8,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -152280.351118,
+				"b_line35" : -274824.060046,
+				"c_line36" : -16947.287707,
+				"integral_line24" : 4837.370667,
+				"error_prior_line25" : -3838.544730,
+				"integral_line24" : -47999.338714,
+				"error_prior_line25" : -70131.943347,
+				"integral_line24" : -109123.383071,
+				"error_prior_line25" : -135333.063411
+			}
+		},
+		{
+			"tick": 9,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 141684.768080,
+				"b_line35" : 792297.924950,
+				"c_line36" : -227059.554667,
+				"integral_line24" : -117706.338260,
+				"error_prior_line25" : -122543.708928,
+				"integral_line24" : -234.833335,
+				"error_prior_line25" : 47764.505379,
+				"integral_line24" : 259620.939676,
+				"error_prior_line25" : 368744.322747
+			}
+		},
+		{
+			"tick": 10,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 938865.239195,
+				"b_line35" : -973141.725299,
+				"c_line36" : 1311626.174852,
+				"integral_line24" : 532906.818609,
+				"error_prior_line25" : 650613.156869,
+				"integral_line24" : 519093.416567,
+				"error_prior_line25" : 519328.249902,
+				"integral_line24" : -113139.995981,
+				"error_prior_line25" : -372760.935657
+			}
+		},
+		{
+			"tick": 11,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -6196222.593924,
+				"b_line35" : -3711817.031187,
+				"c_line36" : -4070263.670184,
+				"integral_line24" : -1379100.145885,
+				"error_prior_line25" : -1912006.964494,
+				"integral_line24" : -2578028.528318,
+				"error_prior_line25" : -3097121.944885,
+				"integral_line24" : -2239098.919720,
+				"error_prior_line25" : -2125958.923740
+			}
+		},
+		{
+			"tick": 12,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 20671764.151479,
+				"b_line35" : 28953270.101621,
+				"c_line36" : 6080737.481929,
+				"integral_line24" : 1105305.416852,
+				"error_prior_line25" : 2484405.562737,
+				"integral_line24" : 7214525.984797,
+				"error_prior_line25" : 9792554.513115,
+				"integral_line24" : 12351927.749830,
+				"error_prior_line25" : 14591026.669551
+			}
+		},
+		{
+			"tick": 13,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -35902059.226312,
+				"b_line35" : -103880066.455518,
+				"c_line36" : 13692577.965222,
+				"integral_line24" : 9386811.366994,
+				"error_prior_line25" : 8281505.950142,
+				"integral_line24" : -8046166.151601,
+				"error_prior_line25" : -15260692.136398,
+				"integral_line24" : -37242709.441704,
+				"error_prior_line25" : -49594637.191535
+			}
+		},
+		{
+			"tick": 14,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -44587139.711694,
+				"b_line35" : 203983479.699041,
+				"c_line36" : -133684995.488066,
+				"integral_line24" : -58591195.862212,
+				"error_prior_line25" : -67978007.229206,
+				"integral_line24" : -37851095.184149,
+				"error_prior_line25" : -29804929.032548,
+				"integral_line24" : 51855146.334668,
+				"error_prior_line25" : 89097855.776372
+			}
+		},
+		{
+			"tick": 15,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 609064724.274242,
+				"b_line35" : 106898336.632967,
+				"c_line36" : 516825706.897082,
+				"integral_line24" : 189979423.548522,
+				"error_prior_line25" : 248570619.410734,
+				"integral_line24" : 274991132.013892,
+				"error_prior_line25" : 312842227.198041,
+				"integral_line24" : 144094163.711828,
+				"error_prior_line25" : 92239017.377160
+			}
+		},
+		{
+			"tick": 16,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -2546673097.612838,
+				"b_line35" : -2732559767.057680,
+				"c_line36" : -1126694988.370527,
+				"integral_line24" : -312186964.092753,
+				"error_prior_line25" : -502166387.641275,
+				"integral_line24" : -958602192.989602,
+				"error_prior_line25" : -1233593325.003494,
+				"integral_line24" : -1275883945.530483,
+				"error_prior_line25" : -1419978109.242311
+			}
+		},
+		{
+			"tick": 17,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 6087819177.405971,
+				"b_line35" : 12430677835.167717,
+				"c_line36" : 24106927.090224,
+				"integral_line24" : -498073633.537595,
+				"error_prior_line25" : -185886669.444842,
+				"integral_line24" : 1798064501.158302,
+				"error_prior_line25" : 2756666694.147904,
+				"integral_line24" : 4787828304.785263,
+				"error_prior_line25" : 6063712250.315746
+			}
+		},
+		{
+			"tick": 18,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -2783360240.957924,
+				"b_line35" : -32309333977.194775,
+				"c_line36" : 12038088700.614756,
+				"integral_line24" : 5844785024.224152,
+				"error_prior_line25" : 6342858657.761746,
+				"integral_line24" : 1405475366.605340,
+				"error_prior_line25" : -392589134.552961,
+				"integral_line24" : -10033620636.787416,
+				"error_prior_line25" : -14821448941.572680
+			}
+		},
+		{
+			"tick": 19,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -51855646606.767090,
+				"b_line35" : 26480432410.699642,
+				"c_line36" : -60104294888.072983,
+				"integral_line24" : -23681188712.012699,
+				"error_prior_line25" : -29525973736.236851,
+				"integral_line24" : -26389485544.272869,
+				"error_prior_line25" : -27794960910.878208,
+				"integral_line24" : -1784972355.481524,
+				"error_prior_line25" : 8248648281.305893
+			}
+		},
+		{
+			"tick": 20,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 287821238354.120972,
+				"b_line35" : 217002823797.829834,
+				"c_line36" : 168892048710.387085,
+				"integral_line24" : 54654890305.454041,
+				"error_prior_line25" : 78336079017.466736,
+				"integral_line24" : 116022130755.414566,
+				"error_prior_line25" : 142411616299.687439,
+				"integral_line24" : 117144217288.252365,
+				"error_prior_line25" : 118929189643.733887
+			}
+		},
+		{
+			"tick": 21,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -871263441186.215088,
+				"b_line35" : -1364516734106.217773,
+				"c_line36" : -191029110648.580383,
+				"integral_line24" : -16163524250.837097,
+				"error_prior_line25" : -70818414556.291138,
+				"integral_line24" : -292009803690.995667,
+				"error_prior_line25" : -408031934446.410217,
+				"integral_line24" : -563090113249.382446,
+				"error_prior_line25" : -680234330537.634766
+			}
+		},
+		{
+			"tick": 22,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 1225436124978.024902,
+				"b_line35" : 4441700615830.458984,
+				"c_line36" : -872828254728.409668,
+				"integral_line24" : -509416817170.839783,
+				"error_prior_line25" : -493253292920.002686,
+				"integral_line24" : 199678675686.812439,
+				"error_prior_line25" : 491688479377.808105,
+				"integral_line24" : 1535174266457.052246,
+				"error_prior_line25" : 2098264379706.434570
+			}
+		},
+		{
+			"tick": 23,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 3309691151814.102051,
+				"b_line35" : -7356520812078.649414,
+				"c_line36" : 6400389114805.361328,
+				"integral_line24" : 2706847673681.594238,
+				"error_prior_line25" : 3216264490852.434082,
+				"integral_line24" : 2158367174661.714844,
+				"error_prior_line25" : 1958688498974.902344,
+				"integral_line24" : -1555523696534.207031,
+				"error_prior_line25" : -3090697962991.259277
+			}
+		},
+		{
+			"tick": 24,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -29676675743371.343750,
+				"b_line35" : -11358471900262.681641,
+				"c_line36" : -22399328200217.531250,
+				"integral_line24" : -7959364290211.158203,
+				"error_prior_line25" : -10666211963892.751953,
+				"integral_line24" : -12884440213477.167969,
+				"error_prior_line25" : -15042807388138.882813,
+				"integral_line24" : -8832871239688.019531,
+				"error_prior_line25" : -7277347543153.812500
+			}
+		},
+		{
+			"tick": 25,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 111815530017972.765625,
+				"b_line35" : 135848304581430.203125,
+				"c_line36" : 42287053611458.242188,
+				"integral_line24" : 10358839552897.505859,
+				"error_prior_line25" : 18318203843108.664063,
+				"integral_line24" : 40761085298243.750000,
+				"error_prior_line25" : 53645525511720.921875,
+				"integral_line24" : 60695605166826.500000,
+				"error_prior_line25" : 69528476406514.523438
+			}
+		},
+		{
+			"tick": 26,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -235626423154366.062500,
+				"b_line35" : -552766886885287.125000,
+				"c_line36" : 31487603853609.464844,
+				"integral_line24" : 34391614116354.945313,
+				"error_prior_line25" : 24032774563457.437500,
+				"integral_line24" : -63599615429576.984375,
+				"error_prior_line25" : -104360700727820.734375,
+				"integral_line24" : -206418421841149.031250,
+				"error_prior_line25" : -267114027007975.531250
+			}
+		},
+		{
+			"tick": 27,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -35223783311991.375000,
+				"b_line35" : 1282023194404123.500000,
+				"c_line36" : -612843011690980.000000,
+				"integral_line24" : -282748849614566.125000,
+				"error_prior_line25" : -317140463730921.062500,
+				"integral_line24" : -123675740235269.859375,
+				"error_prior_line25" : -60076124805692.875000,
+				"integral_line24" : 371200806537839.625000,
+				"error_prior_line25" : 577619228378988.625000
+			}
+		},
+		{
+			"tick": 28,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 2717701123751402.500000,
+				"b_line35" : -408446125011168.500000,
+				"c_line36" : 2706810187711802.500000,
+				"integral_line24" : 1034498128101548.875000,
+				"error_prior_line25" : 1317246977716115.000000,
+				"integral_line24" : 1301111253072409.250000,
+				"error_prior_line25" : 1424786993307679.000000,
+				"integral_line24" : 382091742577439.625000,
+				"error_prior_line25" : 10890936039600.000000
+			}
+		},
+		{
+			"tick": 29,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -13130237157179960.000000,
+				"b_line35" : -11803562600823196.000000,
+				"c_line36" : -6843127511591580.000000,
+				"integral_line24" : -2091649120661022.000000,
+				"error_prior_line25" : -3126147248762571.000000,
+				"integral_line24" : -5133570133508003.000000,
+				"error_prior_line25" : -6434681386580412.000000,
+				"integral_line24" : -5905017903010940.000000,
+				"error_prior_line25" : -6287109645588380.000000
+			}
+		},
+		{
+			"tick": 30,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 35947343923899556.000000,
+				"b_line35" : 63085734509457344.000000,
+				"c_line36" : 4810169253016410.000000,
+				"integral_line24" : -764974564304258.000000,
+				"error_prior_line25" : 1326674556356764.000000,
+				"integral_line24" : 11480161720331604.000000,
+				"error_prior_line25" : 16613731853839606.000000,
+				"integral_line24" : 25232156767872204.000000,
+				"error_prior_line25" : 31137174670883144.000000
+			}
+		},
+		{
+			"tick": 31,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -37017034757071096.000000,
+				"b_line35" : -186244206356610688.000000,
+				"c_line36" : 49930277887679136.000000,
+				"integral_line24" : 26373416021253528.000000,
+				"error_prior_line25" : 27138390585557788.000000,
+				"integral_line24" : -1675294901446604.000000,
+				"error_prior_line25" : -13155456621778208.000000,
+				"integral_line24" : -61715155876878032.000000,
+				"error_prior_line25" : -86947312644750240.000000
+			}
+		},
+		{
+			"tick": 32,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -203879906752031552.000000,
+				"b_line35" : 245118664472976992.000000,
+				"c_line36" : -300120650948447040.000000,
+				"integral_line24" : -122853755578286048.000000,
+				"error_prior_line25" : -149227171599539584.000000,
+				"integral_line24" : -115551739493282960.000000,
+				"error_prior_line25" : -113876444591836352.000000,
+				"integral_line24" : 34525588319537456.000000,
+				"error_prior_line25" : 96240744196415488.000000
+			}
+		},
+		{
+			"tick": 33,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 1412977907442976768.000000,
+				"b_line35" : 791179900603975296.000000,
+				"c_line36" : 953182956639715840.000000,
+				"integral_line24" : 326144815646722432.000000,
+				"error_prior_line25" : 448998571225008512.000000,
+				"integral_line24" : 592512552673455872.000000,
+				"error_prior_line25" : 708064292166738816.000000,
+				"integral_line24" : 494320539122798400.000000,
+				"error_prior_line25" : 459794950803260928.000000
+			}
+		},
+		{
+			"tick": 34,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -4824219125842538496.000000,
+				"b_line35" : -6578165057649691648.000000,
+				"c_line36" : -1499956859722652672.000000,
+				"integral_line24" : -295653191192279040.000000,
+				"error_prior_line25" : -621798006839001472.000000,
+				"integral_line24" : -1698624207653171968.000000,
+				"error_prior_line25" : -2291136760326627840.000000,
+				"integral_line24" : -2829941726997087232.000000,
+				"error_prior_line25" : -3324262266119885824.000000
+			}
+		},
+		{
+			"tick": 35,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 8735175649674862592.000000,
+				"b_line35" : 24164144411110465536.000000,
+				"c_line36" : -2828960552288064000.000000,
+				"integral_line24" : -2049599122999432192.000000,
+				"error_prior_line25" : -1753945931807153152.000000,
+				"integral_line24" : 2050580297708455680.000000,
+				"error_prior_line25" : 3749204505361627648.000000,
+				"integral_line24" : 8734194474965838848.000000,
+				"error_prior_line25" : 11564136201962926080.000000
+			}
+		},
+		{
+			"tick": 36,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 8632532598360066048.000000,
+				"b_line35" : -49142025869134020608.000000,
+				"c_line36" : 30249147009082286080.000000,
+				"integral_line24" : 13379369638436171776.000000,
+				"error_prior_line25" : 15428968761435602944.000000,
+				"integral_line24" : 8135582895680276480.000000,
+				"error_prior_line25" : 6085002597971820544.000000,
+				"integral_line24" : -12882419935756382208.000000,
+				"error_prior_line25" : -21616614410722222080.000000
+			}
+		},
+		{
+			"tick": 37,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -137173796953239011328.000000,
+				"b_line35" : -16453691662844108800.000000,
+				"c_line36" : -119848882258915835904.000000,
+				"integral_line24" : -44395188829057908736.000000,
+				"error_prior_line25" : -57774558467494084608.000000,
+				"integral_line24" : -62571273494101540864.000000,
+				"error_prior_line25" : -70706856389781815296.000000,
+				"integral_line24" : -30207334630079557632.000000,
+				"error_prior_line25" : -17324914694323175424.000000
+			}
+		},
+		{
+			"tick": 38,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 588771261023171641344.000000,
+				"b_line35" : 612076479969109082112.000000,
+				"c_line36" : 269384683442553159680.000000,
+				"integral_line24" : 76324916461336985600.000000,
+				"error_prior_line25" : 120720105290394894336.000000,
+				"integral_line24" : 223267101611295703040.000000,
+				"error_prior_line25" : 285838375105397260288.000000,
+				"integral_line24" : 289179242950538919936.000000,
+				"error_prior_line25" : 319386577580618481664.000000
+			}
+		},
+		{
+			"tick": 39,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -1446706271011317481472.000000,
+				"b_line35" : -2865227379929658163200.000000,
+				"c_line36" : -45910222114737078272.000000,
+				"integral_line24" : 99630135407274426368.000000,
+				"error_prior_line25" : 23305218945937440768.000000,
+				"integral_line24" : -434719600472550473728.000000,
+				"error_prior_line25" : -657986702083846176768.000000,
+				"integral_line24" : -1111616805946041434112.000000,
+				"error_prior_line25" : -1400796048896580386816.000000
+			}
+		},
+		{
+			"tick": 40,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 838608651062926639104.000000,
+				"b_line35" : 7638928009095673806848.000000,
+				"c_line36" : -2678643279589077417984.000000,
+				"integral_line24" : -1318890973511066320896.000000,
+				"error_prior_line25" : -1418521108918340681728.000000,
+				"integral_line24" : -248135500131969728512.000000,
+				"error_prior_line25" : 186584100340580745216.000000,
+				"integral_line24" : 2405635124705962754048.000000,
+				"error_prior_line25" : 3517251930652004057088.000000
+			}
+		},
+		{
+			"tick": 41,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 11442184429288856485888.000000,
+				"b_line35" : -7056833376555922096128.000000,
+				"c_line36" : 13811571532447992512512.000000,
+				"integral_line24" : 5481428384521680584704.000000,
+				"error_prior_line25" : 6800319358032747167744.000000,
+				"integral_line24" : 5924508023220349173760.000000,
+				"error_prior_line25" : 6172643523352318705664.000000,
+				"integral_line24" : 36248021546826727424.000000,
+				"error_prior_line25" : -2369387103159136026624.000000
+			}
+		},
+		{
+			"tick": 42,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -65931032692744702132224.000000,
+				"b_line35" : -47348900325688994693120.000000,
+				"c_line36" : -39755881912920038178816.000000,
+				"integral_line24" : -13017589421323096948736.000000,
+				"error_prior_line25" : -18499017805844778582016.000000,
+				"integral_line24" : -26774540513143771103232.000000,
+				"error_prior_line25" : -32699048536364118179840.000000,
+				"integral_line24" : -26138902758277838274560.000000,
+				"error_prior_line25" : -26175150779824663953408.000000
+			}
+		},
+		{
+			"tick": 43,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 204288407141203700613120.000000,
+				"b_line35" : 311531300237999079424000.000000,
+				"c_line36" : 48598033567888642670592.000000,
+				"integral_line24" : 5564542945732610490368.000000,
+				"error_prior_line25" : 18582132367055707439104.000000,
+				"integral_line24" : 69172393380433866260480.000000,
+				"error_prior_line25" : 95946933893577637363712.000000,
+				"integral_line24" : 129551470815037215473664.000000,
+				"error_prior_line25" : 155690373573315057942528.000000
+			}
+		},
+		{
+			"tick": 44,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -304117600822838828204032.000000,
+				"b_line35" : -1037763075466524392161280.000000,
+				"c_line36" : 187405182367533283409920.000000,
+				"integral_line24" : 112807436042527989301248.000000,
+				"error_prior_line25" : 107242893096795378810880.000000,
+				"integral_line24" : -54953724490031929753600.000000,
+				"error_prior_line25" : -124126117870465796014080.000000,
+				"integral_line24" : -361971312375334879363072.000000,
+				"error_prior_line25" : -491522783190372111613952.000000
+			}
+		},
+		{
+			"tick": 45,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -692593547346075390574592.000000,
+				"b_line35" : 1797294536661923623075840.000000,
+				"c_line36" : -1456046324203269843320832.000000,
+				"integral_line24" : -620838038601157541101568.000000,
+				"error_prior_line25" : -733645474643685563957248.000000,
+				"integral_line24" : -473236973226777355747328.000000,
+				"error_prior_line25" : -418283248736745451159552.000000,
+				"integral_line24" : 401481464481859573383168.000000,
+				"error_prior_line25" : 763452776857194452746240.000000
+			}
+		},
+		{
+			"tick": 46,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 6724714354267092844281856.000000,
+				"b_line35" : 2263511596506327669538816.000000,
+				"c_line36" : 5216097629958826675404800.000000,
+				"integral_line24" : 1869050045406841338331136.000000,
+				"error_prior_line25" : 2489888084007999013650432.000000,
+				"integral_line24" : 2945566120070126032125952.000000,
+				"error_prior_line25" : 3418803093296903320764416.000000,
+				"integral_line24" : 1910098188790125742260224.000000,
+				"error_prior_line25" : 1508616724308266168877056.000000
+			}
+		},
+		{
+			"tick": 47,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -25956500045451027455934464.000000,
+				"b_line35" : -30646676307591381498462208.000000,
+				"c_line36" : -10218553321041151924371456.000000,
+				"integral_line24" : -2592152712353924104847360.000000,
+				"error_prior_line25" : -4461202757760765443178496.000000,
+				"integral_line24" : -9536498797477353830219776.000000,
+				"error_prior_line25" : -12482064917547480399216640.000000,
+				"integral_line24" : -13827848535619750057738240.000000,
+				"error_prior_line25" : -15737946724409875531563008.000000
+			}
+		},
+		{
+			"tick": 48,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 56470863265659871035392000.000000,
+				"b_line35" : 127926735012234662128910336.000000,
+				"c_line36" : -5486993268653540151132160.000000,
+				"integral_line24" : -7282328974494277610504192.000000,
+				"error_prior_line25" : -4690176262140354042527744.000000,
+				"integral_line24" : 15623184241460486443368448.000000,
+				"error_prior_line25" : 25159683038937840273588224.000000,
+				"integral_line24" : 48130007998693666497495040.000000,
+				"error_prior_line25" : 61957856534313412260265984.000000
+			}
+		},
+		{
+			"tick": 49,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -638743105814425734479872.000000,
+				"b_line35" : -305251928381979733079883776.000000,
+				"c_line36" : 137543401373338865818927104.000000,
+				"integral_line24" : 64173542772080517777981440.000000,
+				"error_prior_line25" : 71455871746574791093518336.000000,
+				"integral_line24" : 25239850602564690133385216.000000,
+				"error_prior_line25" : 9616666361104203690016768.000000,
+				"integral_line24" : -90052136480459622908428288.000000,
+				"error_prior_line25" : -138182144479153289405923328.000000
+			}
+		},
+		{
+			"tick": 50,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -606189929328667755571838976.000000,
+				"b_line35" : 137048289116809895392313344.000000,
+				"c_line36" : -624551508095588539729707008.000000,
+				"integral_line24" : -240439642504084774535036928.000000,
+				"error_prior_line25" : -304613185276165292313018368.000000,
+				"integral_line24" : -294059729111044142286241792.000000,
+				"error_prior_line25" : -319299579713608841009561600.000000,
+				"integral_line24" : -71690557713538838750560256.000000,
+				"error_prior_line25" : 18361578766920784157868032.000000
+			}
+		},
+		{
+			"tick": 51,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 3020404843841036085662580736.000000,
+				"b_line35" : 2612610511357950793709780992.000000,
+				"c_line36" : 1620589946317852178898747392.000000,
+				"integral_line24" : 502798575941392945148592128.000000,
+				"error_prior_line25" : 743238218445477719683629056.000000,
+				"integral_line24" : 1189481928089998244299407360.000000,
+				"error_prior_line25" : 1483541657201042352225910784.000000,
+				"integral_line24" : 1328124339809644964934057984.000000,
+				"error_prior_line25" : 1399814897523183906763833344.000000
+			}
+		},
+		{
+			"tick": 52,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -8473872110396135184732782592.000000,
+				"b_line35" : -14466758969575480221851713536.000000,
+				"c_line36" : -1316928019220513189821153280.000000,
+				"integral_line24" : 95004243458307653195792384.000000,
+				"error_prior_line25" : -407794332483085291952799744.000000,
+				"integral_line24" : -2740056602488466151548387328.000000,
+				"error_prior_line25" : -3929538530578464258408841216.000000,
+				"integral_line24" : -5828819751365977029977571328.000000,
+				"error_prior_line25" : -7156944091175621720033722368.000000
+			}
+		},
+		{
+			"tick": 53,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 9533048764777409534662541312.000000,
+				"b_line35" : 43725518102680904284864774144.000000,
+				"c_line36" : -10940689037728465556493828096.000000,
+				"integral_line24" : -5897882615721037590081568768.000000,
+				"error_prior_line25" : -5992886859179345037118930944.000000,
+				"integral_line24" : 786013329358548513809498112.000000,
+				"error_prior_line25" : 3526069931847014665357885440.000000,
+				"integral_line24" : 14644918051139899160690425856.000000,
+				"error_prior_line25" : 20473737802505875091156369408.000000
+			}
+		},
+		{
+			"tick": 54,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 44048760032504982704383590400.000000,
+				"b_line35" : -61262035454090548775370096640.000000,
+				"c_line36" : 68599425723556446266208550912.000000,
+				"integral_line24" : 28294586722182456060609036288.000000,
+				"error_prior_line25" : 34192469337903494750202232832.000000,
+				"integral_line24" : 25659920950234091044909088768.000000,
+				"error_prior_line25" : 24873907620875541981343776768.000000,
+				"integral_line24" : -9905747639911564401134534656.000000,
+				"error_prior_line25" : -24550665691051463561824960512.000000
+			}
+		},
+		{
+			"tick": 55,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -321845851100857795353277104128.000000,
+				"b_line35" : -167284972692993421659022032896.000000,
+				"c_line36" : -222965146532614397468686155776.000000,
+				"integral_line24" : -77016208764413079817191161856.000000,
+				"error_prior_line25" : -105310795486595531479753687040.000000,
+				"integral_line24" : -136043190128289762046453481472.000000,
+				"error_prior_line25" : -161703111078523848693316059136.000000,
+				"integral_line24" : -108786452208154971081818505216.000000,
+				"error_prior_line25" : -98880704568243397884590948352.000000
+			}
+		},
+		{
+			"tick": 56,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 1124650250218727288470184656896.000000,
+				"b_line35" : 1492678638266966855424145358848.000000,
+				"c_line36" : 368169981417974850861051936768.000000,
+				"integral_line24" : 77544669643451293877063909376.000000,
+				"error_prior_line25" : 154560878407864373694255071232.000000,
+				"integral_line24" : 399411763982678528065806532608.000000,
+				"error_prior_line25" : 535454954110968272520073969664.000000,
+				"integral_line24" : 647693816592597501711686303744.000000,
+				"error_prior_line25" : 756480268800752437609132720128.000000
+			}
+		},
+		{
+			"tick": 57,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -2117928898455719557278960975872.000000,
+				"b_line35" : -5615318427278656813935257190400.000000,
+				"c_line36" : 575710929396993715736615583744.000000,
+				"integral_line24" : 445573057691690896015396700160.000000,
+				"error_prior_line25" : 368028388048239566953960701952.000000,
+				"integral_line24" : -517555944887294611621723242496.000000,
+				"error_prior_line25" : -916967708869973139687529775104.000000,
+				"integral_line24" : -2045946011260115489828913545216.000000,
+				"error_prior_line25" : -2693639827852712991540599848960.000000
+			}
+		},
+		{
+			"tick": 58,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -1607144314667517792155737260032.000000,
+				"b_line35" : 11807881891503319613174349561856.000000,
+				"c_line36" : -6834839287925387607894759833600.000000,
+				"integral_line24" : -3051816471131246079165922803712.000000,
+				"error_prior_line25" : -3497389528822937256656296214528.000000,
+				"integral_line24" : -1737076805534025475949970063360.000000,
+				"error_prior_line25" : -1219520860646730793959502643200.000000,
+				"integral_line24" : 3181748961997754044435132317696.000000,
+				"error_prior_line25" : 5227694973257869534264045862912.000000
+			}
+		},
+		{
+			"tick": 59,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : 30843618937678822530684517613568.000000,
+				"b_line35" : 1893976322101736844209604788224.000000,
+				"c_line36" : 27765212793864573669354623729664.000000,
+				"integral_line24" : 10363209735039589355839327043584.000000,
+				"error_prior_line25" : 13415026206170836560905156689920.000000,
+				"integral_line24" : 14220254096827229143180257525760.000000,
+				"error_prior_line25" : 15957330902361254056180274167808.000000,
+				"integral_line24" : 6260155105812002905765026201600.000000,
+				"error_prior_line25" : 3078406143814248861329893883904.000000
+			}
+		},
+		{
+			"tick": 60,
+			"pcs": {
+				"pc_4" : 16,
+				"pc_7" : 14,
+				"pc_6" : 12,
+				"pc_5" : 10,
+				"pc_5_morePIDfun_pidController_pc_3" : 4,
+				"pc_6_morePIDfun_pidController_pc_3" : 4,
+				"pc_7_morePIDfun_pidController_pc_3" : 4
+			},
+			"vars": {
+				"a_line34" : -135988505031073537398907733016576.000000,
+				"b_line35" : -136831783604850168862645443100672.000000,
+				"c_line36" : -64274063392535236136981321744384.000000,
+				"integral_line24" : -18586432880537496330635585781760.000000,
+				"error_prior_line25" : -28949642615577085686474912825344.000000,
+				"integral_line24" : -51947785617809743838010669006848.000000,
+				"error_prior_line25" : -66168039714636972981190926532608.000000,
+				"integral_line24" : -65454286532726297230261478227968.000000,
+				"error_prior_line25" : -71714441638538301261926411272192.000000
+			}
+		}
+	]
+}
